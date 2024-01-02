@@ -6,12 +6,29 @@ body {
   flex-direction: column;
   min-height: 95vh;
 }
+
 .main {
-  flex: 1;
+  flex: 1
 }
 
 h1 {
   font-size: 5rem;
+}
+
+img {
+  width: 30%;
+  float: left;
+}
+
+.left {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.right {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
 }
 
 footer {
@@ -19,3 +36,6 @@ footer {
   color: midnightblue;
 }
 
+span {
+  color: midnightblue;
+}
