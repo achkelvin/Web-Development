@@ -1,0 +1,35 @@
+Web Design Principles
+
+1. Colour Theory
+Be aware of the mood of colour palette such as red convey intensity, energy, love and etc. Use a colour wheel to find colours that work well together with methods like anologous colour(navigate), complementary(pop), etc. Use a colour contrast checker to check the contrast between two colours. Use a colour blindness simulator to check how your design looks to people with different types of colour blindness. Understanding about meanings of colours and how they can be used to convey a message.
+
+2. Typography
+There are different typefaces fonts that can be used. Serif fonts have a small line attached to the end of a stroke in a letter or symbol(authoritive, fancy). Sans-serif fonts do not have the line attached to the end of a stroke in a letter or symbol(simple, straightforward). Monospace fonts have the same width for each letter. Cursive fonts have a flowing style. Fantasy fonts are decorative/playful fonts. There are different font weights. There are different font styles. Stick to 2 fonts and dont overcomplicated. There a Similar method based on mood time era also and Contrast method based on serifness and weights.
+
+3. User Interface Design
+- Hierarchy
+Use brighter colour or weights for higlighting what is important. 
+
+- Layout
+Create layouts that are easy to make audience interested. The paragraph use the right proporsion, not too long or too short. Use a grid system to help with the layout.
+
+- Alignment
+Identify align elements to create visual connection. Use grid to ease create alignment.
+
+- White Space
+White space makes design minimalis and clean, way more expensive and elevate design. Usually implemented by luxury brands.
+
+- Audience
+What should you convey for the audience.
+
+4. User Experience Design
+- Simplicity
+Make the design simple and easy to understand. Make the design easy to use and navigate.
+- Consistency
+Make sure the navbar or some functionality that navigate to other pages is consistent.
+- Reading Pattern
+People read from left to right and top to bottom. Use the F layout or Z layout to make the design easy to read.
+- All Platform Design
+Make sure the design is responsive to different screen sizes. These days people use mobile phones more than desktops. So make sure the design is responsive to mobile phones first and then other devices. Do not too much noise that makes people tired of scrolling.
+- Don't Manipulate User with Design
+Don't make the design that manipulate user to do something. For example, Reverse pyschology of the previous design concept like make the button that is not the button. Help people what they want to do.
