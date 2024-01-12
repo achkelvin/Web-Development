@@ -2,6 +2,7 @@ Have a Play around with the console in the browser
 prompt = for input
 alert = for pop up message
 name.length = to find the length of the string
+name.slice(0, 1) = to slice the string from 0 to 1
 
 Data Types in Javascript
 1. Number
@@ -21,5 +22,8 @@ Variable Naming Rules
 2. Cannot contain a space or hyphen (-)
 3. Cannot use any of the javascript reserved keywords
 
+String length and slicing
 Coding Challenge 2 Twitter Char Counter (twitter.js)
 Conclusion of the answer is that we need to use the .length method to find the length of the string and then subtract it from 140 to find the remaining characters
+Coding Challenge 3 (charSlicing.js)
+Conclusion of the answer is that we need to use the .slice method to slice the string from the start to the end
