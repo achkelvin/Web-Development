@@ -1,3 +1,8 @@
+Have a Play around with the console in the browser
+prompt = for input
+alert = for pop up message
+name.length = to find the length of the string
+
 Data Types in Javascript
 1. Number
 2. String
@@ -8,9 +13,13 @@ Javascript Variables
 2. let
 3. const
 
-Have a Play around with the console in the browser
-prompt = for input
-alert = for pop up message
-
-Coding Challenge 1 (var.js)
+Coding Challenge 1 Switch the values (var.js)
 Conclusion of the answer is that we need one more var (c) to switch the values of the two variables a and b
+
+Variable Naming Rules
+1. Cannot start with a number
+2. Cannot contain a space or hyphen (-)
+3. Cannot use any of the javascript reserved keywords
+
+Coding Challenge 2 Twitter Char Counter (twitter.js)
+Conclusion of the answer is that we need to use the .length method to find the length of the string and then subtract it from 140 to find the remaining characters
