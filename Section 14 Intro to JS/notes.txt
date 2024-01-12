@@ -1,0 +1,16 @@
+Data Types in Javascript
+1. Number
+2. String
+3. Boolean
+
+Javascript Variables
+1. var
+2. let
+3. const
+
+Have a Play around with the console in the browser
+prompt = for input
+alert = for pop up message
+
+Coding Challenge 1 (var.js)
+Conclusion of the answer is that we need one more var (c) to switch the values of the two variables a and b
