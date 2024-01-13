@@ -31,3 +31,12 @@ Coding Challenge 3 Char limited by slice (charSlicing.js)
 Conclusion of the answer is that we need to use the .slice method to slice the string from the start to the end
 Coding Challange 4 Char Capitalized by Uppercase and lowercase combination (charCapitalized.js)
 Conclusion of the answer is that we need to use the .toUpperCase method to convert the string to uppercase and then use the .slice method to slice the string from the start to the end
+
+Aritmetic and Modulo Operators
+Division (/)
+Multiplication (*)
+Addition (+)
+Subtraction (-)
+Modulo (%) = Remainder of the division of two numbers (e.g. 5 % 2 = 1)
+Coding Challenge 5 Dog to Human Age Converter (dogAge.js)
+Conclusion of the answer is that we need to use the aritmetic operators to convert the dog age to human age
