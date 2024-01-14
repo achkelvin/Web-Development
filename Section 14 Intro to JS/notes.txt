@@ -1,3 +1,5 @@
+This notes is written following by exact timeline of the course Intro to Javascript
+
 Have a Play around with the console in the browser
 prompt = for input
 alert = for pop up message
@@ -40,3 +42,13 @@ Subtraction (-)
 Modulo (%) = Remainder of the division of two numbers (e.g. 5 % 2 = 1)
 Coding Challenge 5 Dog to Human Age Converter (dogAge.js)
 Conclusion of the answer is that we need to use the aritmetic operators to convert the dog age to human age
+
+Increment and Decrement Operators
+Increment (++)
+Decrement (--)
+
+Functions Part 1 Creating and Calling Functions
+function functionName() {
+    // code block
+} // creating the function
+functionName(); // calling the function
