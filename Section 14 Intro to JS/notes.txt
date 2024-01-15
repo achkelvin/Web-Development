@@ -7,6 +7,8 @@ name.length = to find the length of the string
 name.slice(0, 1) = to slice the string from 0 to 1
 name.toUpperCase() = to convert the string to uppercase
 name.toLowerCase() = to convert the string to lowercase
+math.floor() = to round down the number
+math.round() = to round the number
 
 Data Types in Javascript
 1. Number
@@ -60,3 +62,12 @@ function functionName(parameter1, parameter2) {
 functionName(argument1, argument2); // calling the function with arguments
 >Coding Challenge 6 Life for 90 years calculator (live90years.js)
  Conclusion of the answer is that we need to use the function with parameters and arguments to calculate the remaining years to live for 90 years old
+
+Functions Part 3 Output and Return Values
+function functionName(parameter1, parameter2) {
+    // code block
+    return // return value
+} // creating the function
+functionName(argument1, argument2); // calling the function with arguments
+>Coding Challenge 7 BMI Calculator (bmiCalculator.js)
+ Conclusion of the answer is that we need to use the function with parameters and arguments to calculate the BMI and return the value
