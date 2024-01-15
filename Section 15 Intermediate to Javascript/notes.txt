@@ -24,3 +24,6 @@ Combining Comparison Operators
 && is and operator
 || is or operator
 ! is not operator
+
+>Coding Challenge 1 - BMI Calculator Advanced (bmiCalculatorAdvance.js)
+Conclusion of this challenge is to create a BMI calculator that can calculate BMI that have different unit of measurement (kg/m2 and lb/in2) and categorize the BMI into different categories (underweight, normal, overweight, obese)
