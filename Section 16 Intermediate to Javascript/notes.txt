@@ -1,0 +1,13 @@
+This notes is written following by exact timeline of the course Intermediate Javascript
+
+Random Number Generator
+math.random = for random decimal number between 0 and 1
+
+Control Flow
+if (condition) {
+    // do something
+} else if (another condition) {
+    // do something else
+} else {
+    // do something else
+}
