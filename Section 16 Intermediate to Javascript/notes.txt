@@ -11,3 +11,16 @@ if (condition) {
 } else {
     // do something else
 }
+
+Comparison Operators and Equality
+=== is strict equality operator
+!== is strict non-equality operator
+> greater than
+< less than
+>= greater than or equal to
+<= less than or equal to
+
+Combining Comparison Operators
+&& is and operator
+|| is or operator
+! is not operator

@@ -18,6 +18,16 @@ function loveCalculator() {
       myName + ' and ' + yourName + ' have a love score of ' + loveScore + '%'
     );
   }
+  if (loveScore <= 30) {
+    alert(
+      myName +
+        ' and ' +
+        yourName +
+        ' have a love score of ' +
+        loveScore +
+        '%. You go together like oil and water.'
+    );
+  }
   return alert(
     myName + ' and ' + yourName + ' have a love score of ' + loveScore + '%'
   );
