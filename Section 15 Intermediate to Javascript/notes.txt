@@ -27,3 +27,5 @@ Combining Comparison Operators
 
 >Coding Challenge 1 - BMI Calculator Advanced (bmiCalculatorAdvance.js)
 Conclusion of this challenge is to create a BMI calculator that can calculate BMI that have different unit of measurement (kg/m2 and lb/in2) and categorize the BMI into different categories (underweight, normal, overweight, obese)
+>Coding Challange 2 - Leap Year (leapYear.js)
+Conclusion of this challenge is to create a function that can determine whether a year is a leap year or not (leap year is a year that is divisible by 4 and 400 but not 100) and return true or false accordingly to the result of the calculation of the year.
