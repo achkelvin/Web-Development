@@ -42,3 +42,5 @@ Unshift - add item to the beginning of the array
 Conclusion of this challenge is to create a function that can console 100 numbers with every 3rd number is "fizz", every 5th number is "buzz" and every 3rd and 5th number is "fizzbuzz"
 >Coding Challenge 4 - Console the name whos buying lunch everybodys food bill (whosBill.js)
 Conclusion of this challenge is to create a function that can console the name whos buying lunch everybodys food bill from an array of names
+>Coding Challenge 5 - Console the lyrics of 99 bottles of beer (bottlesOfBeer.js)
+Conclusion of this challenge is to create a function that can console the lyrics of 99 bottles of beer with while loop
