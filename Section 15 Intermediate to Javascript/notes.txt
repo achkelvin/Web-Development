@@ -42,5 +42,22 @@ Unshift - add item to the beginning of the array
 Conclusion of this challenge is to create a function that can console 100 numbers with every 3rd number is "fizz", every 5th number is "buzz" and every 3rd and 5th number is "fizzbuzz"
 >Coding Challenge 4 - Console the name whos buying lunch everybodys food bill (whosBill.js)
 Conclusion of this challenge is to create a function that can console the name whos buying lunch everybodys food bill from an array of names
+
+Control Statements - While Loops (--State | while loops is used when we dont know how many times we want to loop)
+while (condition) {
+    // do something
+} else if (another condition) {
+    // do something else
+} else {
+    // do something else
+}
+
 >Coding Challenge 5 - Console the lyrics of 99 bottles of beer (bottlesOfBeer.js)
 Conclusion of this challenge is to create a function that can console the lyrics of 99 bottles of beer with while loop
+
+Control Statements - For Loops (--Iterate | for loops is used when we know how many times we want to loop)
+for (var i = 0; i < 10; i++) {
+    // do something
+}
+>Coding Challenge 6 - Console the sequence of fibonacci numbers (fibonacciGenerator.js)
+Conclusion of this challenge is to create a function that can console the sequence of fibonacci numbers with for loop
