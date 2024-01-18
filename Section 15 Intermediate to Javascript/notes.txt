@@ -39,3 +39,6 @@ Shift - remove item from the beginning of the array
 Unshift - add item to the beginning of the array
 
 >Coding Challenge 3 - Console 100 numbers with every 3rd number is "fizz", every 5th number is "buzz" and every 3rd and 5th number is "fizzbuzz" (fizzBuzz.js)
+Conclusion of this challenge is to create a function that can console 100 numbers with every 3rd number is "fizz", every 5th number is "buzz" and every 3rd and 5th number is "fizzbuzz"
+>Coding Challenge 4 - Console the name whos buying lunch everybodys food bill (whosBill.js)
+Conclusion of this challenge is to create a function that can console the name whos buying lunch everybodys food bill from an array of names
