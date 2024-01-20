@@ -1,0 +1,16 @@
+This notes is written following by exact timeline of the course Intermediate Javascript
+
+Add Javascript to a website with DOM
+There are 3 ways to add Javascript to a website:
+1. Inline Javascript
+2. Internal Javascript
+3. External Javascript
+
+Inline Javascript
+Inline Javascript is the Javascript code that is written inside the HTML file. It is not recommended to use this method because it is hard to maintain and debug.
+
+Internal Javascript
+Internal Javascript is the Javascript code that is written inside the <script> tag in the HTML file. It is not recommended to use this method because it is hard to maintain and debug.
+
+External Javascript
+External Javascript is the Javascript code that is written in a separate file with .js extension. It is recommended to use this method because it is easy to maintain and debug.
