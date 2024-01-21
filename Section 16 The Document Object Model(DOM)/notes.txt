@@ -14,3 +14,6 @@ Internal Javascript is the Javascript code that is written inside the <script> t
 
 External Javascript
 External Javascript is the Javascript code that is written in a separate file with .js extension. It is recommended to use this method because it is easy to maintain and debug.
+
+Introduction to DOM
+DOM stands for Document Object Model. It is a tree-like structure that represents the HTML document. It is used to manipulate the HTML document with Javascript.
