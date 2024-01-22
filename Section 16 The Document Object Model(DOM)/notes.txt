@@ -17,3 +17,12 @@ External Javascript is the Javascript code that is written in a separate file wi
 
 Introduction to DOM
 DOM stands for Document Object Model. It is a tree-like structure that represents the HTML document. It is used to manipulate the HTML document with Javascript.
+
+DOM Tree
+The DOM tree is a tree-like structure that represents the HTML document. It is used to manipulate the HTML document with Javascript.
+
+Selecting Elements
+There are 3 ways to select elements in the DOM:
+1. getElementById()
+2. getElementsByClassName()
+3. querySelector()
