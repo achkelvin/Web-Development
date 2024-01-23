@@ -26,3 +26,5 @@ There are 3 ways to select elements in the DOM:
 1. getElementById()
 2. getElementsByClassName()
 3. querySelector()
+
+-assignment
