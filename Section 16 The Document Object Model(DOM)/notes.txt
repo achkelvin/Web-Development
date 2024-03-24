@@ -22,7 +22,9 @@ DOM Tree
 The DOM tree is a tree-like structure that represents the HTML document. It is used to manipulate the HTML document with Javascript.
 
 Selecting Elements
-There are 3 ways to select elements in the DOM:
-1. getElementById()
-2. getElementsByClassName()
-3. querySelector()
+There are ways to select elements in the DOM:
+1. getElementById(title) = singular
+2. getElementsByTagName(li) = plural, select with array
+3. getElementsByClassName(btn) = plural, select with array
+4. querySelector(#title) = singular with CSS selector which is can select all elements
+5. querySelectorAll(.btn) = plural with CSS selector which is can select all elements
