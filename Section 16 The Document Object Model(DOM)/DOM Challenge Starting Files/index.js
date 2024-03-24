@@ -5,3 +5,4 @@ document.querySelector('ul').lastElementChild.innerHTML = 'Kelvin';
 // and
 // document.firstElementChild.lastElementChild.querySelector("ul").lastElementChild.innerHTML = 'Kelvin';
 document.querySelector('ul li a').style.color = 'red';
+document.querySelector('button').style.backgroundColor = 'yellow';

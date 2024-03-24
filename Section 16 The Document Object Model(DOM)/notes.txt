@@ -28,3 +28,6 @@ There are ways to select elements in the DOM:
 3. getElementsByClassName(btn) = plural, select with array
 4. querySelector(#title) = singular with CSS selector which is can select all elements
 5. querySelectorAll(.btn) = plural with CSS selector which is can select all elements
+
+Manipulating and Changing Styles of Elements
+1. element.style.property = value
