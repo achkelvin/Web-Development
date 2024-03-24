@@ -42,3 +42,9 @@ There are ways to manipulate and change text content of elements in the DOM:
 1. element.textContent = text, it will not render HTML tags
 2. element.innerText = text, it will not render HTML tags
 3. element.innerHTML = text, it will render HTML tags
+
+Manipulating Attributes
+There are ways to manipulate and change attributes of elements in the DOM:
+1. element.getAttribute(attribute)
+2. element.setAttribute(attribute, value)
+3. element.removeAttribute(attribute)
