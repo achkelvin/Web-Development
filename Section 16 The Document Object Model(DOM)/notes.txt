@@ -30,4 +30,9 @@ There are ways to select elements in the DOM:
 5. querySelectorAll(.btn) = plural with CSS selector which is can select all elements
 
 Manipulating and Changing Styles of Elements
+There are ways to manipulate and change styles of elements in the DOM:
 1. element.style.property = value
+2. element.className = class
+3. element.classList.add(class)
+4. element.classList.remove(class)
+5. element.classList.toggle(class)
